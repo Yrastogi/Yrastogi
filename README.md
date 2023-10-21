@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **a Full Stack project in Web development**
 
-- 🌱 I’m currently learning **Javascript,NodeJS,React,CSS,Mysql**
+- 🌱 I’m currently learning **Javascript, NodeJS, React, CSS, Mysql**
 
 - 👯 I’m looking to collaborate on [Open Source Contributions, Hackathon](https://www.linkedin.com/posts/yash-rastogi-131616220_hey-connections-hello-activity-7037810183850332160--Yny?utm_source=share&utm_medium=member_desktop)
 
@@ -21,13 +21,13 @@
 
 - 📝 I regularly write articles on [https://medium.com/@seemayash012](https://medium.com/@seemayash012)
 
-- 💬 Ask me about **React, Coding Hackathons, Team work**
+- 💬 Ask me about **React, Coding Hackathons, Teamwork**
 
 - 📫 How to reach me **yash.rastogi.cse@gmail.com**
 
 - 📄 Know about my experiences [https://shorturl.at/ctvV3](https://shorturl.at/ctvV3)
 
-- ⚡ Fun fact **I think I am more Funny and more positive then others My Aura have many powers .**
+- ⚡ Fun fact **I think I am funnier and more positive than others My Aura has many powers .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,14 +43,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yrastogi&show_icons=true&locale=en" alt="yrastogi" /></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
